@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  --theme-background-color: #000;
+  --theme-color: #fff;
+}
+li {
+  list-style: none !important;
+  padding: 0;
+  margin: 0;
+}
